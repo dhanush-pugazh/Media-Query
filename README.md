@@ -1,2 +1,2 @@
 # Media-Query
-Project tried Flexbox, Grid system with media query.
+Project tried Flexbox, Grid system, Tailwind with media query.
